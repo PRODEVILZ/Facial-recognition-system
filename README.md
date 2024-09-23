@@ -27,8 +27,6 @@ Basic understanding of Python and machine learning concepts
 Steps
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/your_username/face-recognition-system.git
 Navigate to the project directory:
 bash
 Copy code
